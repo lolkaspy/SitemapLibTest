@@ -164,7 +164,7 @@ $xmlFile = new BaseFormatter($urls,'xml',$path3);
 $path4 = getenv('HOME').'/uploads/sitemap3.txt';
 $txtFile = new BaseFormatter($urls,'txt',$path3);
 ```
-```text
+```
 /bin/php /home/belyashdima/PhpstormProjects/untitled2/StartPoint.php
 PHP Fatal error:  Uncaught Exception: Неподдерживаемый формат файла in /home/belyashdima/PhpstormProjects/untitled2/vendor/belyashdima-test-tasks/sitemap-lib-test/classes/BaseFormatter.php:44
 Stack trace:
