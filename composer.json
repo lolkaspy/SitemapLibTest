@@ -1,0 +1,20 @@
+{
+  "require": {
+    "ext-xmlwriter": "*",
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {"classes\\": "classes/"}
+  },
+  "name": "belyashdima-test-tasks/sitemap-lib-test",
+  "description": "This test package include tool for saving sitemap in 3 formats: xml, json and csv",
+  "type": "library",
+  "authors": [
+    {
+      "name": "belyashdima",
+      "email": "spydetector@mail.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "license": "proprietary"
+}
