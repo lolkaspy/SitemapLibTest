@@ -16,5 +16,6 @@
     }
   ],
   "minimum-stability": "dev",
-  "license": "proprietary"
+  "license": "proprietary",
+  "prefer-stable": true
 }
